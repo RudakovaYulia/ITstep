@@ -1,0 +1,22 @@
+pre{
+    font-size: 30px;
+    color: rgb(110, 109, 109);;
+    word-spacing: 6px;
+    letter-spacing: 5px;
+    line-height: 60px;
+}
+ins + span{
+    text-decoration: overline;
+}
+.fw{
+    font-weight: 900;
+}
+ins del{
+    text-shadow: 2px 2px 4px orange;
+}
+ins .fw del{
+    font-size: 35px;
+}
+.power{
+    color: rgba(245, 66, 221, 0.3);
+}
