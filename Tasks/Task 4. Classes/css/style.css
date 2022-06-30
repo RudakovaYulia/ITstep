@@ -20,3 +20,9 @@ ins .fw del{
 .power{
     color: rgba(245, 66, 221, 0.3);
 }
+.sqr{
+    opacity: 0;
+}
+.sqr:hover{
+    opacity: 1;
+}

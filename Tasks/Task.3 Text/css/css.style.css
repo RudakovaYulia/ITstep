@@ -1,19 +1,29 @@
-h1 strong{
-    color: darkblue;
+strong{
+    color:red;
 }
-p {
-    font-family: arial, helvetica, sans-serif; 
- }
- h2 {
-    font-size: 20pt; 
-    color: red; 
-    background: white; 
- }
- .note {
-    color: red; 
-    background-color: yellow; 
-    font-weight: bold; 
- }
- p#paragraph1 {
-    padding-left: 10px;
- }
+h1{
+   font-size: 35px;
+   font-style: italic;
+}
+p{
+   font-size: 15px;
+   font-style: oblique;
+}
+.clgreen {
+   color: green; 
+}
+.clblue{
+   color: blue;
+}
+.clblviol{
+   color: blueviolet;
+}
+.clyellow{
+   color: yellow;
+}
+.clcyan{
+   color: cyan;
+}
+.clchoc{
+   color: chocolate;
+}
