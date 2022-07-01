@@ -1,0 +1,16 @@
+h1{
+    font-size: 24px;
+    color: rgb(160, 17, 36);
+    font-family: Arima;
+}
+h2{
+    font-size: 18px;
+    font-family: Arima;
+    letter-spacing: 2px;
+}
+p{
+    font-size: 14px;
+}
+a{
+    font-size: 18px;
+}
