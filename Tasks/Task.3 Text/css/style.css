@@ -2,21 +2,24 @@ strong{
     color:red;
 }
 h1{
-   font-size: 35px;
-   font-style: italic;
+   font-size: 32px;
+}
+h4{
+   font-size: 24px;
 }
 p{
-   font-size: 15px;
-   font-style: oblique;
+   font-size: 14px;
 }
 .clgreen {
-   color: green; 
+   color: green;
+   font-size: 20px; 
 }
 .clblue{
    color: blue;
+   font-size: 20px;
 }
 .clblviol{
-   color: blueviolet;
+      color: blueviolet;
 }
 .clyellow{
    color: yellow;
