@@ -12,6 +12,9 @@ body {
 .block {
   width: 40px;
   height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .block:nth-child(1) {
     background-color: tomato;
